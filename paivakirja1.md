@@ -17,3 +17,7 @@ Suurin osa tehtävästä oli kyllä helppoa, koska olen aikaisemmin tehnyt repos
 | git revert | Palauttaa viimeisimmän commitin |
 | git restore | Palauttaa sen jälkeen kun on tehty git add, mutta ennen git pushia |
 | git status | Katsotaan status, eli nähdään esimerkiksi mitä tiedostoja ollaan lähettämässä repoon |
+| git checkout -b | Tehdään uusi branch |
+| git switch | Vaihdellaan branchien välillä |
+| git push origin | Pushataan tiettyyn haluamaan branchiin |
+| git branch | Katsotaan missä branchissä ollaan |
