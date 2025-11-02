@@ -6,7 +6,7 @@ Minulla oli vaikeaa päästä alkuun. Minulla oli myös aluksi ongelmia virheilm
 
 Opin samalla ymmärtämään paremmin branchit, jotka ovat aina olleet vaikeita minulle. Nyt osaan ja yritän tulevaisuudessakin käyttää branchejä eri asioiden tekemiseen. Ymmärsin branchejen hyödyt paremmin myös, koska vanhemmissa kursseissa en nähny branchejen käyttöä niin tärkeäksi, mutta nyt tajusin miten tärkeää se voi olla. 
 
-Mergen kanssa minulla on ollut aina ongelmia, enkä ole ikinä aikaisemmin ymmärtänyt sen idean. Minulla on usein käynyt vanhemmissa projekteissa, että 2 henkilöä tekee git pushia samaan tiedostoon, joka aiheuttaa merge ongelman, jolloin, kukaan meistä ei tiedä mitä on tapahtumassa vaan lähdemme itse poistamaan koodieditorista, siihen saakka, että merge viesti poistuu, mutta nyt ymmärrän asian paremmin.
+Mergen kanssa minulla on ollut aina ongelmia, enkä ole ikinä aikaisemmin ymmärtänyt sen idean. Minulla on usein käynyt vanhemmissa projekteissa, että 2 henkilöä tekee git pushia samaan tiedostoon, joka aiheuttaa merge ongelman, jolloin, kukaan meistä ei tiedä mitä on tapahtumassa vaan lähdemme itse poistamaan koodieditorista, siihen saakka, että merge viesti poistuu, mutta nyt ymmärrän asian paremmin, mutta en varmaan ihan vielä täydellisesti.
 
 Minulla oli ongelmia excercisebot:in kanssa nyt tokalla kerralla, enkä saanut sitä toimimaan, mutta koska olen jo kerralleen tehnyt tämän tehtävän ja nyt teen toista kertaa niin, että saisin kaikki samaan repositoryyn tehtyä, niin päätin kopioida toisesta githubista tiedostot tähän. Olen siis kokeillut excercise bottia ja oli mielestäni todella kiinnostava tapa työskennellä.
 
