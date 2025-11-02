@@ -2,7 +2,11 @@
 
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet?__
 
-Suurin osa tehtävästä oli kyllä helppoa, koska olen aikaisemmin tehnyt repositorioita eli git add, commit, push ja repositorion kehitys. Vaikeaa kuitenkin oli git revert, koska tein ensimmäistä kertaa sitä. Git log oli myös uusi minulle enkä osannut poistua logista että voisin palata takaisin kirjottamaan tekstiä, jouduin etsiä netistä apua.
+Minulla ei ollut paljon vaikeuksia ensimmäisten tehtävien kanssa, koska minulla on ollut muutama kurssi missä olemme tehneet projekteja githubin kautta, mutta tuli paljon uusiakin asioita vastaan. Suurin osa asioista olivat minulle tuttuja, mutta pääsin myös syventymään eri komentoihin esimerkiksi "git init" on aina tullut minulle käytettyä vain, koska GitHub suosittelee, kun tekee projektin, mutta en oikeasti tiennyt, mitä se tekee ennen kuin syvennyin asiaan paremmin. 
+
+Minulle uusia asioita olivat git log:in käyttö, en ikinä tiennyt, että voin katsoa sieltä "historian" muutoksista, ja se oli mielestäni aika kätevä komento. Samalla minä en aikaisemmin käyttänyt git restore tai git revert, jotka olisivat olleet minulle aika käteviä vanhemmissa projekteissa, koska olen muutaman kerran joutunut manuaalisesti poistamaan kaikki tekemäni asiat. 
+
+Minulla ei ollut suurta ongelmaa, mutta esimerkiksi git revert ja git restore olivat uusia, jolloin kävin myös netissä tutustumassa niihin tästä linkistä: https://git-scm.com/docs. 
 
 ## Osiossa käyttämäni Git-komennot
 
