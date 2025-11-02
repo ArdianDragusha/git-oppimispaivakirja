@@ -6,7 +6,7 @@ Minulla ei ollut paljon vaikeuksia ensimmäisten tehtävien kanssa, koska minull
 
 Minulle uusia asioita olivat git log:in käyttö, en ikinä tiennyt, että voin katsoa sieltä "historian" muutoksista, ja se oli mielestäni aika kätevä komento. Samalla minä en aikaisemmin käyttänyt git restore tai git revert, jotka olisivat olleet minulle aika käteviä vanhemmissa projekteissa, koska olen muutaman kerran joutunut manuaalisesti poistamaan kaikki tekemäni asiat. 
 
-Minulla ei ollut suurta ongelmaa, mutta esimerkiksi git revert ja git restore olivat uusia, jolloin kävin myös netissä tutustumassa niihin tästä linkistä: https://git-scm.com/docs. 
+Minulla ei ollut suurta ongelmaa, mutta esimerkiksi git revert ja git restore olivat uusia ja aiheuttivat vähän ongelmia, mutta kun tuli ongelmia vastaan, kävin myös netissä tutustumassa niihin tästä linkistä: https://git-scm.com/docs. 
 
 ## Osiossa käyttämäni Git-komennot
 
